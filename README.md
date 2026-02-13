@@ -65,6 +65,11 @@ No hacks—just focus, consistency, and smart leverage of Kaggle features.
 
 ---
 
+### 🚀 [Why Most Beginners Quit Kaggle in 30 Days](https://substack.com/home/post/p-187877844)
+A practical breakdown of the biggest mistakes new Kaggle users make — from joining advanced competitions too early to misunderstanding how medals and rankings work — and how to avoid quitting in your first month.  
+
+---
+
 ## 🔗 Connect With Me
 
 - 📝 Substack: https://substack.com/@bornaetminan
